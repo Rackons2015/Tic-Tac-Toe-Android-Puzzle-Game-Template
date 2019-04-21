@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Android-Puzzle-Game-Template
 This game is based on Android Studio Project. In this game we use two type of game : Human Vs Human and Human Vs Computer
-<p>Buy Tic-Tac-Toe Puzzle Game : <a rel="nofollow" href="https://www.codester.com/items/10655/tic-tac-toe-android-puzzle-game-template">Buy Now</a></p>
+<p>Buy Tic-Tac-Toe Puzzle Game : <a rel="nofollow" href="https://codecanyon.net/item/tic-tac-toe-android-puzzle-game/23213994?ref=rackons2015">Buy Now</a></p>
 
 <br><table width="100%"><tr><td width="30%"><img src="https://www.codester.com/static/uploads/items/10655/preview/003.jpg"></td><td width="30%"><img src="https://www.codester.com/static/uploads/items/10655/preview/007.jpg"></td><td width="30%"><img src="https://www.codester.com/static/uploads/items/10655/preview/005.jpg"></td></tr></table>
  <h2 class="h4 font-bold ">Overview</h2>  
